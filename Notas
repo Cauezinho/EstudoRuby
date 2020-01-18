@@ -1,0 +1,23 @@
+configuração ambiente de testes
+
+
+
+1 - Instalar Ruby versão atualc X
+
+2 - Visual Code
+* Instalar Visual Studio Code X
+* Instalar suporte a Cucumber 
+* Instalar suporte a Ruby
+
+Por projeto
+3 - Criando o projeto Base - comandos
+* gem install bundle (Gerenciador de pacotes do Ruby)
+* bundle init (Inicializa um projeto Ruby com arquivo de dependencia Gemfile)
+* limpar o Gemfile e incluir a gems que serão utilizadas no projeto
+* Instalar as gems com o comando: bundle install
+
+4 - Criando o projeto de especificação com o cucumber
+* na pasta do projeto execute o comando cucumber --init
+
+
+ruby - bdd - cucumber - capybara - pratica - git
