@@ -21,9 +21,9 @@ Cenário: Realizar pesquisa por nome de animal
 @pesquisar_carro
 Cenário: Realizar pesquisa por nome de um carro
     Dado que eu esteja no site Google
-    E informo o valor da pesquisa "Opala SS 66"
+    E informo o valor da pesquisa "impala 66"
     Quando clico no botao pesquisar Google
-    Entao o valor "Opala SS 66" da pesquisa é apresentado com sucesso
+    Entao o valor "impala 66" da pesquisa é apresentado com sucesso
 
 @pesquisar_time
 Cenário: Realizar pesquisa por nome de um time
